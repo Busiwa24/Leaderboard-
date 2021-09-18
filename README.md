@@ -1,48 +1,43 @@
 # Leaderboard
 
-> Leaderboard repo coded by `dm`
-
-
-![screenshot](./imgs/screenshot.png)
+In this project, I build a simple leaderboard framework.This simple web page is built using webpack and served by a webpack dev server.
+)
 
 ## Built With
 
-- HTML
-- CSS
-- JS
+- Major languages:
+1. ES6/JavaScript
+2. HTML
+3. CSS
+
+- Technologies used:
+5. Git
+6. GitHub
+7. VS Code
+8.webpack
 
 ## Live Demo
-[Live Demo](https://busiwa24.github.io/Leaderboard-/dist/)
 
-## Getting Started
+[Live Demo Link](https://busiwa24.github.io/Leaderboard-/dist)
 
-To get started locally follow these simple example steps.
-- Fork and clone the repo to your computer using `git clone git@github.com:mmatongo/leaderboard.git` in the terminal or command prompt (this assumes that you have set up git to use your ssh key, if you haven't see [here](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh)).
-- Install [Node](https://nodejs.org/en/download/).
-- Run the command `npm install` inside the repo in a terminal to install all the required dependancies.
-- Create a new feature branch using `git checkout -b feature-name`.
-- Run `npm start` to launch a live server and monitor changes as you code.
-- Push the branch to github using `git push`
-- Create a descriptive pull request detailing what your new feature is
+### Getting Started 
 
-## Authors
+To get a local copy up and running follow these simple example steps.
 
-👤 **Daniel M. Matongo**
+Clone the repo with git clone https://github.com/Busiwa24/Leaderboard-.git
 
-- GitHub: [Daniel M. Matongo](https://github.com/mmatongo)
-- LinkedIn: [Daniel M. Matongo](https://linkedin.com/in/mmatongo)
+Open index.html using npm start .
+
+## Author
+GitHub: (https://github.com/Busiwa24) 
+Twitter: (https://twitter.com/busiwaliuma)
+ LinkedIn: (https://www.linkedin.com/in/busiwa-liuma-28385b80/> 
+
 
 ## 🤝 Contributing
-
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the issues page.
 
 ## Show your support
-
 Give a ⭐️ if you like this project!
-
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
