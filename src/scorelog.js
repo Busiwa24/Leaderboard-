@@ -10,5 +10,4 @@ const scores = (scorelog) => {
     ),
   );
 };
-
 exports.scores = scores;
